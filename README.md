@@ -28,4 +28,4 @@ Step 4 : After giving a unique name and if gets accepted you will a message some
 
 ![accesstoken](https://github.com/XxHosseinJoonZxX/Convert-Voice-To-MP3/assets/64345781/01a7c5d4-1de9-40f9-bb93-e7e14cd2ff25)
 
-Step 5 : Copy HTTP API To TOKEN On src\Main.py Line 5
+Step 5 : Copy HTTP API and paste to TOKEN on src\Main.py Line 5
