@@ -1,11 +1,11 @@
 # Description
 A Python project to convert Voice to MP3, which is written using the Telebhat library, which can be used to build and expand a simple robot to convert Voice to MP3 using the bot token in Telegram .
 
-## Requirements
+# Requirements
 pip install pyTelegramBotAPI==3.4.1
 pip install telebot
 
-### Setup 
+# Setup 
 First, you need to build a Telegram bot using botfather. For this, do the following steps step by step.
 
 Step 1 : After an account on Telegram, in the search bar at the top search for "BotFather"
